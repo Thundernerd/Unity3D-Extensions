@@ -19,7 +19,7 @@ Extensions is a simple collection of extensions that I find useful when working 
 ## Usage
 The extensions that are currently implemented are for the following classes
 
-* [String]("https://github.com/Thundernerd/Unity3D-Extensions/Runtime/StringExtensions.cs)
+* [String](https://github.com/Thundernerd/Unity3D-Extensions/Runtime/StringExtensions.cs)
 
 ## Contributing
 Pull requests are welcomed. Please feel free to fix any issues you find, or add new features.
