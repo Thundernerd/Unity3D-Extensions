@@ -36,6 +36,12 @@ namespace TNRD.Extensions.Tests
         {
             Assert.IsTrue(" ".IsNullOrWhiteSpace());
         }
+        
+        [Test]
+        public void IsNullOrWhiteSpace_Empty()
+        {
+            Assert.IsTrue("".IsNullOrWhiteSpace());
+        }
 
         [Test]
         public void IsNullOrWhiteSpace_Filled()

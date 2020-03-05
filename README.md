@@ -19,6 +19,13 @@ Extensions is a simple collection of extensions that I find useful when working 
 ## Usage
 The extensions that are currently implemented are for the following classes
 
+* [Array](https://github.com/Thundernerd/Unity3D-Extensions/Runtime/ArrayExtensions.cs)
+* [GameObject](https://github.com/Thundernerd/Unity3D-Extensions/Runtime/GameObjectExtensions.cs)
+* [Linq](https://github.com/Thundernerd/Unity3D-Extensions/Runtime/LinqExtensions.cs)
+* [List](https://github.com/Thundernerd/Unity3D-Extensions/Runtime/ListExtensions.cs)
+* [Math](https://github.com/Thundernerd/Unity3D-Extensions/Runtime/MathExtensions.cs)
+* [Object (runtime)](https://github.com/Thundernerd/Unity3D-Extensions/Runtime/ObjectExtensions.cs)
+* [Object (editor)](https://github.com/Thundernerd/Unity3D-Extensions/Editor/ObjectExtensions.cs)
 * [String](https://github.com/Thundernerd/Unity3D-Extensions/Runtime/StringExtensions.cs)
 
 ## Contributing

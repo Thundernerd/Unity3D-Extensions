@@ -1,7 +1,9 @@
 {
-    "name": "TNRD.Extensions",
+    "name": "TNRD.Extensions.Editor",
     "references": [],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
