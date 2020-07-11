@@ -1,5 +1,10 @@
 # Changelog
 
+## [2.1.0] - 2020-07-11
+### Added
+- Array extensions
+    - IsWithinBounds for multiple other dimensions
+
 ## [2.0.0] - 2020-03-05
 ### Added
 - Array extensions
